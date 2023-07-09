@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GICBankingSystem", "GICBankingSystem\GICBankingSystem.csproj", "{1691EE63-DA26-45F1-8014-A4F77FD8A3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GICBankingSystem.Test", "GICBankingSystem.Test\GICBankingSystem.Test.csproj", "{2CD42816-BCDC-40ED-8CC9-0640D06100A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1691EE63-DA26-45F1-8014-A4F77FD8A3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1691EE63-DA26-45F1-8014-A4F77FD8A3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1691EE63-DA26-45F1-8014-A4F77FD8A3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1691EE63-DA26-45F1-8014-A4F77FD8A3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD42816-BCDC-40ED-8CC9-0640D06100A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD42816-BCDC-40ED-8CC9-0640D06100A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD42816-BCDC-40ED-8CC9-0640D06100A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD42816-BCDC-40ED-8CC9-0640D06100A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {988ADC8A-4F13-4460-B549-C0D600AD3F2D}
+	EndGlobalSection
+EndGlobal
